@@ -20,8 +20,6 @@ These are select projects completed as part of my data science and machine learn
   - **Skills Practiced:** Data import, data cleaning, Pandas library
   - **Link to Notebook:** [Project 2 Notebook](link-to-notebook)
 
-*(Continue for additional coursework projects)*
-
 ### Self-Practice Projects
 
 These are projects I've undertaken independently to explore new concepts, apply what I've learned, and challenge myself with real-world data science problems.
@@ -35,8 +33,6 @@ These are projects I've undertaken independently to explore new concepts, apply 
   - **Description:** The respository documents the analysis of current data from the (Office of National Statistics - UK)[https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsbyvaccinationstatusengland] to analysis deaths by vaccination status. Note: The dataset will not be uploaded to this repository as it can be easily obtained from the source. 
   - **Skills Practiced:** Data cleaning, preliminary analysis, exploratory data analysis.
   - **Link to Notebook:** [Project B Notebook](link-to-notebook)
-
-*(Continue for additional self-practice projects)*
 
 ## About Me
 
