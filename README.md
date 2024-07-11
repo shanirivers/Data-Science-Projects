@@ -43,7 +43,7 @@ These are select projects completed as part of my data science and machine learn
 
 ## About Me
 
-I am a passionate about data! With a background in supporting and maintaining data for SaaS web application for almost a decade, I am transitioning into the field of data science, focusing on practical applications of data analysis and machine learning. I currently learning through various online courses (LinkedIn course and Codecedemy), books and self-directed projects.
+I am a passionate about data! With a background in supporting and maintaining data for SaaS web application for almost a decade, I am transitioning into the field of data science, focusing on practical applications of data analysis and machine learning. I currently learning through various online courses (through Codecedemy and LinkedIn), books and self-directed projects.
 
 ## Repository Structure
 
