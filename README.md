@@ -9,7 +9,9 @@ This repository is a collection of various data science projects that I've worke
 
 [Coursework Projects](#Coursework-Projects)
 
-[About](#About)
+[About Me](#About-Me)
+
+[Repository Structure](#Repository-Structure)
 
 ## Self-Directed Projects
 
