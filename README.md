@@ -25,12 +25,12 @@ These are select projects completed as part of my data science and machine learn
 These are projects I've undertaken independently to explore new concepts, apply what I've learned, and challenge myself with real-world data science problems.
 
 - **Project: AI Investor Bot**
-  - **Description:** This repository documents the process of building an AI-powered bot to identify value stocks using financial data from (SimFin)[https://www.simfin.com]. The project involves several steps.
+  - **Description:** This repository documents the process of building an AI-powered bot to identify value stocks using financial data from [SimFin](https://www.simfin.com). The project involves several steps.
   - **Skills Practiced:** Data cleaning, preliminary analysis, exploratory data analysis, value stock metrics, implementation of ML algorithms to make investment decisions.
   - **Link to Notebook:** [Project A Notebook](link-to-notebook)
 
 - **Project: Vaccine status and mortality**
-  - **Description:** The respository documents the analysis of current data from the (Office of National Statistics - UK)[https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsbyvaccinationstatusengland] to analysis deaths by vaccination status. Note: The dataset will not be uploaded to this repository as it can be easily obtained from the source. 
+  - **Description:** The respository documents the analysis of current data from the [Office of National Statistics - UK](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsbyvaccinationstatusengland) to analysis deaths by vaccination status. Note: The dataset will not be uploaded to this repository as it can be easily obtained from the source. 
   - **Skills Practiced:** Data cleaning, preliminary analysis, exploratory data analysis.
   - **Link to Notebook:** [Project B Notebook](link-to-notebook)
 
