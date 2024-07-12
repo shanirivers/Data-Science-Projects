@@ -34,7 +34,7 @@ These are select projects completed as part of my data science and machine learn
 - **Project 1: Sales Funnel**
   - **Description:** Analyze website visits data and sales funnel.
   - **Skills Practiced:** Data import, data cleaning, Pandas library
-  - **Link to Notebook:** [Project 1 Notebook](link-to-notebook)
+  - **Link to Notebook:** [Project 1 Notebook](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Coursework%20Projects/Page_Funnel_Visits.ipynb)
 
 - **Project 2: Jeopardy**
   - **Description:** Investigate a dataset of Jeopardy! questions and answers. Filter the dataset for topics, compute the average difficulty of those questions, and train to become the next Jeopardy champion!
