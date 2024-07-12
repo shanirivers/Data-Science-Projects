@@ -33,7 +33,7 @@ These are select projects completed as part of my data science and machine learn
 
 - **Project 1: Sales Funnel**
   - **Description:** Analyze website visits data and sales funnel.
-  - **Skills Practiced:** Data import, data cleaning, Pandas library
+  - **Skills Practiced:** Data import, Pandas library: column operations, aggregates, working with multiple dataframes, merge
   - **Link to Notebook:** [Project 1 Notebook](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Coursework%20Projects/Page_Funnel_Visits.ipynb)
 
 - **Project 2: Jeopardy**
@@ -45,7 +45,7 @@ These are select projects completed as part of my data science and machine learn
 
 I am passionate about data! 
 
-With a background in supporting and maintaining data for SaaS web application for almost a decade, I am transitioning into the field of data science, focusing on practical applications of data analysis and machine learning. I currently learning through various online courses (through Codecedemy and LinkedIn), books and self-directed projects.
+With a background in supporting and maintaining data for SaaS web application for almost a decade, I am diving into data science, focusing on practical applications of data analysis and machine learning. I currently learning through various online courses (through Codecedemy and LinkedIn), books and self-directed projects.
 
 ## Repository Structure
 
