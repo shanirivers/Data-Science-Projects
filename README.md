@@ -36,10 +36,10 @@ These are select projects completed as part of my data science and machine learn
   - **Skills Practiced:** Data import, Pandas library: column operations, aggregates, working with multiple dataframes, merge
   - **Link to Notebook:** [Project 1 Notebook](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Coursework%20Projects/Page_Funnel_Visits.ipynb)
 
-- **Project 2: Jeopardy**
-  - **Description:** Investigate a dataset of Jeopardy! questions and answers. Filter the dataset for topics, compute the average difficulty of those questions, and train to become the next Jeopardy champion!
-  - **Skills Practiced:** Data import, data cleaning, Pandas library
-  - **Link to Notebook:** [Project 2 Notebook](link-to-notebook)
+- **Project 2: US Census**
+  - **Description:** Cleaning US Census data
+  - **Skills Practiced:** Data import, data cleaning, Pandas library, graphs
+  - **Link to Notebook:** [Project 2 Notebook](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Coursework%20Projects/Cleaning%20US%20Census%20Data.ipynb)
 
 ## About Me
 
