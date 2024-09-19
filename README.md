@@ -21,7 +21,7 @@ These are projects I've undertaken independently to explore new concepts, apply 
   - **Description:** This repository documents the process of building an AI-powered bot to identify value stocks using financial data from [SimFin](https://www.simfin.com). The project involves several steps.
   - **Skills Practiced:** Data cleaning, preliminary analysis, exploratory data analysis, value stock metrics, implementation of ML algorithms to make investment decisions.
   - [**Data Cleaning Notebook**](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Self-Directed%20Projects/Stock_Data_Cleanup.ipynb)
-  - [**EDA & Initial Analysis Notebook**](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Self-Directed%20Projects/Stock_Data_Cleanup.ipynb)
+  - [**EDA & Initial Analysis Notebook**](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Self-Directed%20Projects/Investor_AI_Initial_EDA.ipynb)
 
 - **Project: Vaccine status and mortality**
   - **Description:** The respository documents the analysis of current data from the [Office of National Statistics - UK](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsbyvaccinationstatusengland) to analysis deaths by vaccination status. Note: The dataset will not be uploaded to this repository as it can be easily obtained from the source. 
