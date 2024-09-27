@@ -42,7 +42,12 @@ These are select projects completed as part of my data science and machine learn
   - **Skills Practiced:** Data import, data cleaning, Pandas library, graphs
   - **Link to Notebook:** [Project 2 Notebook](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Coursework%20Projects/Cleaning%20US%20Census%20Data.ipynb)
 
-- **Project 3: Diagnosing Diabetes**
+- **Project 3: Web Scraping**
+  - **Description:** Web scrap data from a website table using the BeautifulSoup library.
+  - **Skills Practiced:** Web scraping, data import, data cleaning, Pandas library, BeautifulSoup library, requests library, exploratory data analysis (EDA)
+  - **Link to Notebook:** [Project 3 Notebook](https://github.com/shanirivers/Data-Science-Projects/blob/main/notebooks/Coursework%20Projects/Chocolate%20Scraping%20with%20Beautiful%20Soup.ipynb)
+  - 
+- **Project 4: Diagnosing Diabetes**
   - **Description:** The [dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database) is from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
   - **Skills Practiced:** Exploratory Data Analysis (EDA) to inspect, clean, and validate the data. Python libraries: Pandas, Seaborn, Matplotlib, Sklearn, graphs
   - **Link to Notebook:** [Project 3 Notebook]()
