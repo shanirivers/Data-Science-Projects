@@ -1,12 +1,14 @@
- [1m [95m# Agent: [00m  [1m [92mContent Planner [00m
- [95m## Task: [00m  [92m1. Prioritize the latest trends, key players, and noteworthy news on Artificial Intelligence.
+
+# Agent: Content Planner 
+## Task: 
+1. Prioritize the latest trends, key players, and noteworthy news on Artificial Intelligence.
 2. Identify the target audience, considering their interests and pain points.
 3. Develop a detailed content outline including an introduction, key points, and a call to action.
 4. Include SEO keywords and relevant data or sources. [00m
 
 
- [1m [95m# Agent: [00m  [1m [92mContent Planner [00m
- [95m## Final Answer: [00m  [92m
+# Agent: Content Planner 
+## Final Answer:
 Comprehensive Content Plan for Blog Article on Artificial Intelligence
 
 I. Introduction
@@ -103,8 +105,9 @@ X. References
 3. IEEE Robotics & Automation Society: "Artificial Intelligence for Robotics" [00m
 
 
- [1m [95m# Agent: [00m  [1m [92mContent Writer [00m
- [95m## Task: [00m  [92m1. Use the content plan to craft a compelling blog post on Artificial Intelligence.
+# Agent: Content Writer 
+## Task: 
+1. Use the content plan to craft a compelling blog post on Artificial Intelligence.
 2. Incorporate SEO keywords naturally.
 3. Sections/Subtitles are properly named in an engaging manner.
 4. Ensure the post is structured with an engaging introduction, insightful body, and a summarizing conclusion.
@@ -112,8 +115,8 @@ X. References
  [00m
 
 
- [1m [95m# Agent: [00m  [1m [92mContent Writer [00m
- [95m## Final Answer: [00m  [92m
+# Agent: Content Writer 
+## Final Answer: 
 **The Future of Artificial Intelligence: Trends, Applications, and Implications**
 
 Artificial Intelligence (AI) has revolutionized modern society, transforming the way we live, work, and interact with each other. As AI continues to advance, it's essential to understand its latest trends, applications, and implications on our daily lives.
@@ -178,13 +181,12 @@ Websites and Blogs:
 2. McKinsey Global Institute: "A Future That Works: Automation, Artificial Intelligence, and the Threat to Jobs"
 3. IEEE Robotics & Automation Society: "Artificial Intelligence for Robotics" [00m
 
+# Agent: Editor
+## Task: Proofread the given blog post for grammatical errors and alignment with the brand's voice. [00m
 
- [1m [95m# Agent: [00m  [1m [92mEditor [00m
- [95m## Task: [00m  [92mProofread the given blog post for grammatical errors and alignment with the brand's voice. [00m
 
-
- [1m [95m# Agent: [00m  [1m [92mEditor [00m
- [95m## Final Answer: [00m  [92m
+# Agent:Editor 
+Final Answer: 
 The provided text appears to be a comprehensive overview of artificial intelligence (AI), its trends, applications, and implications. The content covers various aspects of AI, including Explainable AI (XAI), Edge AI, key players in the field, noteworthy news in AI-powered healthcare and cybersecurity, and target audience analysis.
 
 To improve the text, I suggest adding more specific examples and anecdotes to make it more engaging and relatable. Additionally, incorporating visual elements such as images or diagrams can help illustrate complex concepts and break up the dense technical content.
